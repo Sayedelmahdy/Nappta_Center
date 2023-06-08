@@ -21,7 +21,6 @@ Our mission is to **improve the quality of life for children** through rehabilit
 - Actively contribute to societal change and preventive interventions that **improve the health** of children with early childhood disorders.
 - Supporting planning ideas and conducting research in the field of early childhood disorders.
 
-Please visit the [GitHub repository](https://github.com/Sayedelmahdy/Nappta_Center) to explore and contribute to the Nabta Center project.
 
 ![Nabta Center Logo](Napta_Center_Logo.png)
 
