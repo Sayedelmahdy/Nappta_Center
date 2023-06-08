@@ -25,4 +25,4 @@ Please visit the [GitHub repository](https://github.com/Sayedelmahdy/Nappta_Cent
 
 ![Nabta Center Logo](Napta_Center_Logo.png)
 
-*Note: The above image is a representation and does not depict the actual logo of the Nabta Center.*
+
