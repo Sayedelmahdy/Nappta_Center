@@ -23,6 +23,6 @@ Our mission is to **improve the quality of life for children** through rehabilit
 
 Please visit the [GitHub repository](https://github.com/Sayedelmahdy/Nappta_Center) to explore and contribute to the Nabta Center project.
 
-![Nabta Center Logo](Nappta_Center/Napta Center Logo.png)
+![Nabta Center Logo](Napta_Center_Logo.png)
 
 *Note: The above image is a representation and does not depict the actual logo of the Nabta Center.*
